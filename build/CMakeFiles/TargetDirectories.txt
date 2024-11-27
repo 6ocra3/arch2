@@ -1,0 +1,4 @@
+/Users/makar/Documents/RTD/hse/tech_it/chat/build/CMakeFiles/client.dir
+/Users/makar/Documents/RTD/hse/tech_it/chat/build/CMakeFiles/server.dir
+/Users/makar/Documents/RTD/hse/tech_it/chat/build/CMakeFiles/edit_cache.dir
+/Users/makar/Documents/RTD/hse/tech_it/chat/build/CMakeFiles/rebuild_cache.dir
