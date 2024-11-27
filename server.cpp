@@ -33,7 +33,7 @@ void *handle_client(void *param) {
         buffer[bytes_received] = '\0';
         printf("Message from user %d: %s\n", socket_fd, buffer);
 
-        std::string prefix = "User " + std::to_string(socket_fd) + ": ";
+        std::string prefix = "User " + std::to_string(socket_fd+10) + ": ";
         const char *prefix_data = prefix.c_str();
         int prefix_len = strlen(prefix_data);
 
